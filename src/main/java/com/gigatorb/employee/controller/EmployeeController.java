@@ -13,7 +13,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "http://employee-frontend-git-anupammishra-1-dev.apps.sandbox.x8i5.p1.openshiftapps.com")
 @RestController
 @RequestMapping("/api/v1/")
 public class EmployeeController {
